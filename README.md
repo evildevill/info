@@ -19,7 +19,7 @@ Info is an accurate facebook account information gathering, all sensitive inform
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/zahrairshad/info.git
+$ git clone https://github.com/evildevill/info.git
 $ cd info
 ```
 
@@ -35,17 +35,17 @@ $ python2 info.py
 # [ Follow us On Social Media ]
 ```
       Instagram
-$ https://instagram.com/__empty254__
+$ instagram.com/__empty254__
  
  
        Facebook
        
-$ https://m.facebook.com/emptywasi
+$ facebook.com/emptywasi
 
 
        Youtube 
        
-http://www.youtube.com/Hackerwasi
+youtube.com/Hackerwasi
 
 
 ```
