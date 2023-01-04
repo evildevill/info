@@ -32,24 +32,6 @@ $ pip2 install -r requirements.txt
 $ python2 info.py
 ```
 
-# [ Follow us On Social Media ]
-```
-      Instagram
-$ instagram.com/__empty254__
- 
- 
-       Facebook
-       
-$ facebook.com/emptywasi
-
-
-       Youtube 
-       
-youtube.com/Hackerwasi
-
-
-```
-
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
